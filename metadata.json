@@ -1,0 +1,5 @@
+{
+  "name": "KeyMaster AI",
+  "description": "An advanced API key management dashboard powered by Gemini. Generate secure permanent and temporary keys, monitor usage, and receive AI-driven security audits.",
+  "requestFramePermissions": []
+}
